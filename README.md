@@ -28,7 +28,7 @@ I can turn ☕ coffee into code and 🐞 bugs into features 😄
 ---
  
 ## 🧑‍💻 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/v-hari-prasanth)
  
 ---
  
@@ -107,7 +107,7 @@ I can turn â˜• coffee into code and ðŸž bugs into features ðŸ˜„
 ---
  
 ## ðŸ§‘â€ðŸ’» Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/v-hari-prasanth)
  
 ---
  
