@@ -34,7 +34,7 @@ I can turn ☕ coffee into code and 🐞 bugs into features 😄
  
 ## 💼 Know about my experiences  
 [📄 View my Resume](https://your-resume-link.com)  
-[🌐 Portfolio](https://your-portfolio-link.com)  
+[🌐 Portfolio]([https://your-portfolio-link.com](https://hari-prasanth-v-software-engineer.vercel.app/))  
 [📝 Blog](https://your-blog-link.com) *(Optional)*
  
 ---
