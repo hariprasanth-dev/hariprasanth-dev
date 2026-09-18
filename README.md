@@ -32,24 +32,32 @@ Full-stack Software Engineer with **2+ years of production experience** shipping
 
 ## 📈 Impact at a Glance
 
+<div align="center">
+
 | Metric | Result |
-|---|---|
+|:---:|:---:|
 | Live enterprise client platforms | **5** delivered and maintained for a Luxembourg-based agency |
 | UI performance and dev velocity | **~30%** improvement with modular Next.js and Tailwind architecture |
 | Large-dataset load times | **~40%** faster using DOM virtualization (Vigilance) |
 | Compliance | **GDPR-aligned** data-handling workflows for client-facing reporting |
 | Industries shipped | Real Estate · ERP / B2B Commerce · Healthcare · CMS · IIoT |
 
+</div>
+
 ---
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 | Project | What I Built | Stack |
-|---|---|---|
+|:---:|:---:|:---:|
 | **[TerraVista](https://terravistahome.com)** | Luxury home builder platform with dynamic service modules, an architectural portfolio and consultation booking workflows that drive qualified lead capture | React.js, HTML5, CSS3, Bootstrap |
 | **Crayoon** | B2B uniform commerce and ERP platform handling multi-client orders, size allocations and real-time inventory through FastAPI REST endpoints, backed by a PostgreSQL data layer built for concurrent transactions | Next.js, React.js, FastAPI, PostgreSQL |
 | **Vigilance** | GDPR-compliant, tablet and mobile-optimized field inspection app for property security and CCTV risk assessments. Load times on large datasets cut by ~40% with DOM virtualization | React.js, FastAPI, Bootstrap, REST APIs |
 | **Evalia** | Automated Selenium pipeline that extracts and validates buyer financial records from Chilean government portals, feeding a secure dashboard that turns verified wealth data into actionable lead tables | Python, Selenium, React.js, REST APIs |
+
+</div>
 
 **More shipped work:**
 [ShopQ](https://shopq.online) (SaaS e-commerce landing platform) ·
@@ -107,10 +115,16 @@ Full-stack Software Engineer with **2+ years of production experience** shipping
 
 ## 🎯 What I'm Looking For
 
-- **Roles:** Frontend Engineer · Full Stack Engineer · React / Next.js Developer
-- **Locations:** Bangalore · Chennai · Hyderabad · Coimbatore · Remote
-- **Availability:** Immediate / 15 days notice
-- **Best fit:** product teams building SaaS, B2B or enterprise web platforms where performance, clean architecture and shipping speed matter
+<div align="center">
+
+| | |
+|:---:|:---:|
+| **Roles** | Frontend Engineer · Full Stack Engineer · React / Next.js Developer |
+| **Locations** | Bangalore · Chennai · Hyderabad · Coimbatore · Remote |
+| **Availability** | Immediate / 15 days notice |
+| **Best fit** | Product teams building SaaS, B2B or enterprise web platforms where performance, clean architecture and shipping speed matter |
+
+</div>
 
 ---
 
@@ -128,16 +142,16 @@ Advanced TypeScript · GraphQL · Kubernetes and infrastructure automation
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="48%" />
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=hariprasanth-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" width="48%" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariprasanth-dev&theme=tokyonight&hide_border=true" alt="GitHub streak stats" width="48%" />
 </p>
 
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="48%" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages by commits" width="48%" />
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasanth-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariprasanth-dev&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" width="48%" />
+</p> -->
 
-<p align="center"><sub>Cards refresh automatically every day with GitHub Actions.</sub></p>
+<p align="center"><sub>Cards refresh automatically — powered by github-readme-stats.</sub></p>
 
 ---
 
@@ -163,13 +177,17 @@ Advanced TypeScript · GraphQL · Kubernetes and infrastructure automation
   </a>
 </p>
 
+<div align="center">
+
 | | Details |
-|---|---|
+|:---:|:---:|
 | 📧 **Email** | [hari.prasanth.v.dev@gmail.com](mailto:hari.prasanth.v.dev@gmail.com?subject=Opportunity%20for%20Software%20Engineer%20Role) |
 | 💼 **LinkedIn** | [linkedin.com/in/v-hari-prasanth](https://www.linkedin.com/in/v-hari-prasanth) |
 | 🌐 **Portfolio** | [hari-prasanth-v-software-engineer.vercel.app](https://hari-prasanth-v-software-engineer.vercel.app/) |
 | 🎯 **Open to** | Frontend · Full Stack · React / Next.js roles |
 | 📍 **Locations** | Bangalore · Chennai · Hyderabad · Coimbatore · Remote |
 | ⏱️ **Availability** | Immediate / 15 days |
+
+</div>
 
 <p align="center"><i>Thanks for stopping by. If something here looks interesting, let's build it together. ☕</i></p>
