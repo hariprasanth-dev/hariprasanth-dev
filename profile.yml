@@ -1,0 +1,26 @@
+# Save this file in your profile repo as:
+#   .github/workflows/profile-summary-cards.yml
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # once a day at 00:00 UTC
+  workflow_dispatch:       # lets you run it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Personal access token saved as a repo secret named SUMMARY_GITHUB_TOKEN
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 5   # closest whole hour to IST
+          EXCLUDE: ""
